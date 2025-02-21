@@ -99,8 +99,7 @@ I am prepared to start my next journey!
 </picture>
 
 <div align="left">
-<h3> 🤝 Contact me: </h3>
-
+🤝 Contact me: 
   <a href="https://www.linkedin.com/in/hojinhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="15" alt="linkedin logo" />
   </a>
