@@ -7,9 +7,9 @@
 </picture>
 
 ## 💫 About Me:
-I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. I always come up creative solutions to difficult challenges. 
+I'm a Year 3 Computer Science student at the National University of Singapore with a passion for coding and problem-solving. I enjoy tackling challenging problems and coming up with creative solutions.
 
-I am prepared to start my next journey!
+Always eager to learn and explore new technologies, I am excited to embark on my next journey! 🚀
 
 ## 💻 Tech Stack and Tools:
 <br clear="both">
@@ -93,10 +93,10 @@ I am prepared to start my next journey!
 </div>  -->
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=3&theme=dracula&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
 
 ### 🤝 Contact me: 
