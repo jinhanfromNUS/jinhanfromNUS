@@ -1,9 +1,9 @@
-<h1 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Github+Page+!+👋;" alt="Welcome to my Github Page! 👋" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3600&pause=1500&color=2E2D46&center=true&vCenter=true&width=870&height=100&lines=Welcome+to+my+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. Always coming up creative solutions to difficult challenges. I am prepared to start my next journey!
+I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. I always come up creative solutions to difficult challenges. 
+
+I am prepared to start my next journey!
 
 ## 💻 Tech Stack and Tools:
 <br clear="both">
@@ -80,14 +80,17 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
 </div>
 <br clear="both">
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinhanfromnus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinhanfromnus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>  -->
+</div> 
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<!-- ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dracula&no-frame=false&no-bg=true&margin-w=4) -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=3&theme=dracula&combine_all_yearly_contributions=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
