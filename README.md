@@ -98,8 +98,9 @@ I am prepared to start my next journey!
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## 🤝 Contact me:
 <div align="left">
+🤝 Contact me:
+
   <a href="https://www.linkedin.com/in/hojinhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" />
   </a>
