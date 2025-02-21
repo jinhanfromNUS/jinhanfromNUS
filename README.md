@@ -88,16 +88,16 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
 ## 🌐 Contact me:
 <div align="left">
   <a href="https://www.linkedin.com/in/hojinhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:hojinhan@u.nus.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="25" height="25" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="30" height="25" alt="microsoft-outlook logo" />
   </a>
   <a href="mailto:jinhan1319@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo" />
   </a>
   <a href="https://t.me/jinhan1202" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="25" height="25" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="25" alt="telegram logo" />
   </a>
 </div>
 
