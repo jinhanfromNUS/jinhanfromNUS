@@ -1,22 +1,6 @@
 ## 💫 About Me:
 I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. Always coming up creative solutions to difficult challenges. I am prepared to start my next journey!
 
-## 🌐 Socials:
-<div align="left">
-  <a href="www.linkedin.com/in/hojinhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="hojinhan@u.nus.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="32" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="jinhan1319@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
-  </a>
-  <a href="@jinhan1202" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="32" alt="telegram logo"  />
-  </a>
-</div>
-
 ## 💻 Tech Stack:
 <br clear="both">
 <div align="left">
@@ -100,6 +84,25 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
 <hr/> -->
 
 <img src="https://raw.githubusercontent.com/jinhanfromnus/jinhanfromnus/output/snake.svg" alt="Snake animation" />
+
+## 🌐 Contact me:
+<div align="left">
+<div>
+
+<div>
+  <a href="https://www.linkedin.com/in/hojinhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" />
+  </a>
+  <a href="mailto:hojinhan@u.nus.edu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="32" alt="microsoft-outlook logo" />
+  </a>
+  <a href="mailto:jinhan1319@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo" />
+  </a>
+  <a href="https://t.me/jinhan1202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="32" alt="telegram logo" />
+  </a>
+</div>
 
 ###
 
