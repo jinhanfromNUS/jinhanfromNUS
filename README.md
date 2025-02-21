@@ -1,9 +1,7 @@
-### 💫 About Me:
-I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess a competent problem solving skills. Always coming up creative solutions to difficult challenges. I am prepared to start my next journey!
+## 💫 About Me:
+I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. Always coming up creative solutions to difficult challenges. I am prepared to start my next journey!
 
-<hr/>
-
-### 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <a href="www.linkedin.com/in/hojinhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
@@ -19,9 +17,7 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
   </a>
 </div>
 
-<hr/>
-
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
@@ -96,9 +92,7 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
 </div>
 <br clear="both">
 
-<hr/>
-
-<!-- # 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinhanfromnus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinhanfromnus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
