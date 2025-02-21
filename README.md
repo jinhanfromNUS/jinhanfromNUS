@@ -1,6 +1,4 @@
-<h1 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Github+Page+!+👋;" alt="Welcome to my Github Page! 👋" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=2E2D46&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. Always coming up creative solutions to difficult challenges. I am prepared to start my next journey!
