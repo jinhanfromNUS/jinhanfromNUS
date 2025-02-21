@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&color=F78BF1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Github+Page+!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WWelcome+to+my+Github+Page+!+👋;" />
 </h1>
 
 ## 💫 About Me:
