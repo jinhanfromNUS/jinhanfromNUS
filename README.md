@@ -80,19 +80,20 @@ I'm currently a Year 3 Computer Science in National University of Singapore. I a
 </div>
 <br clear="both">
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinhanfromnus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinhanfromnus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> 
+</div>  -->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=3&theme=dracula&combine_all_yearly_contributions=true)
-
-<img src="https://raw.githubusercontent.com/jinhanfromnus/jinhanfromnus/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🤝 Contact me:
 <div align="left">
