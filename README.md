@@ -7,9 +7,9 @@
 </picture>
 
 ## 💫 About Me:
-I'm a Year 3 Computer Science student at the National University of Singapore with a passion for coding and problem-solving. I enjoy tackling challenging problems and coming up with creative solutions.
+I'm currently a Year 3 Computer Science in National University of Singapore. I am a passionate programmer and possess competent problem solving skills. I always come up creative solutions to difficult challenges. 
 
-Always eager to learn and explore new technologies, I am excited to embark on my next journey! 🚀
+I am prepared to start my next journey!
 
 ## 💻 Tech Stack and Tools:
 <br clear="both">
@@ -93,10 +93,10 @@ Always eager to learn and explore new technologies, I am excited to embark on my
 </div>  -->
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jinhanfromnus&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=jinhanfromnus&limit=3&theme=dracula&combine_all_yearly_contributions=true) -->
 
 
 ### 🤝 Contact me: 
@@ -120,5 +120,17 @@ Always eager to learn and explore new technologies, I am excited to embark on my
 <div align="center">
   <img src="https://profile-counter.glitch.me/jinhanfromnus/count.svg?"  />
 </div>
+
+###
+
+<!-- ## 🗂️ Highlight Projects
+
+<a href="https://github.com/jinhanfromnus/your project link here">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinhanfromnus&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a> -->
+
+## 👨‍💻 This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinhanfromnus&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
