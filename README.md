@@ -14,7 +14,7 @@
   <a href="https://t.me/jinhan1202" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://hojinhan.vercel.app" target="_blank">
+  <a href="https://hojinhan.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
   </a>
 </div>
